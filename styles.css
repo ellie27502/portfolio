@@ -1,0 +1,43 @@
+main{
+    background-color: rgb(180, 163, 215);
+}
+head{
+    background-color: rgb(180, 163, 215);
+}
+body{
+    background-color: rgb(180, 163, 215);
+}
+nav a{
+    margin: 1rem;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 0.7%;
+    text-decoration: none;
+}
+.Gallery{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+header{
+    text-align: center;
+    }
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.Contact{
+    padding: 2%;
+    width: 20rem;
+    background-color: rgb(199, 199, 246);
+    margin: 1rem auto;
+}
+.About p{
+    text-align: left;
+    margin: auto;
+    width: 50rem;
+    max-width: 100%;
+}
